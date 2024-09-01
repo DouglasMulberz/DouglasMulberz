@@ -2,10 +2,12 @@
 
 Minha missão  é transformar desafios em oportunidades.
 💠Sobre mim: 
+🔹 Estudante de ADS/TI
+🔹Leitor 
 🔹Atleta
 🔹Ciclista
 🔹Maratonista
-🔹Leitor 
+
 
 
 
