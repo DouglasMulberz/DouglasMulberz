@@ -2,7 +2,7 @@
 
 Minha missão  é transformar desafios em oportunidades.
 💠Sobre mim: 
-🔹 Estudante de ADS/TI
+🔹 Estudante ADS Anhanguera | Devclub Formação FullSTACK
 🔹Leitor 
 🔹Atleta
 🔹Ciclista
