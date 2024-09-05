@@ -1,4 +1,4 @@
-##   Olá, sou **Douglas Mülberz** 
+##   Olá, sou **Douglas Mülberz** Programador | Desenvolvedor 
 
 Minha missão  é transformar desafios em oportunidades.
 💠Sobre mim: 
