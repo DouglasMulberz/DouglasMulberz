@@ -1,12 +1,9 @@
 ##   Olá, sou **Douglas Mülberz** Programador | Desenvolvedor 
 
 Minha missão  é transformar desafios em oportunidades.
-💠Sobre mim: 
-🔹 Estudante ADS Anhanguera | Devclub Formação FullSTACK
-🔹Leitor 
-🔹Atleta
-🔹Ciclista
-🔹Maratonista
+Sobre mim: 
+ Estudante ADS Anhanguera | Devclub Formação FullSTACK
+
 
 
 
